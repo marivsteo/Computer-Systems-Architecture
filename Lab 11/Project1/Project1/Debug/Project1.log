@@ -1,0 +1,2 @@
+﻿  main.c
+LINK : fatal error LNK1104: cannot open file 'C:\asm_tools\lab11\Project1\Project1\\module.obj legacy_stdio_definitions.lib'
